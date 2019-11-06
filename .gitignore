@@ -1,0 +1,15 @@
+# IDEs
+.idea/
+.code/
+.vscode/
+*~
+
+#python
+__pycache__/
+build/
+dist/
+juju_remove.egg-info/
+*.pyc
+*.pyo
+
+.env
