@@ -15,7 +15,7 @@ jujubundlelib==0.5.6
 macaroonbakery==1.2.3
 paramiko==2.6.0
 pathspec==0.6.0
-protobuf==3.9.2
+protobuf==3.15.0
 pyasn1==0.4.7
 pycparser==2.19
 pymacaroons==0.13.0
